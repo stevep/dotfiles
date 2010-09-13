@@ -1,0 +1,2 @@
+export EDITOR="mate -w"
+export PATH=$PATH:/opt/local/bin:/opt/local/sbin:/usr/local/git/bin:/opt/local/bin:/opt/local/sbin:.
