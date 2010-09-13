@@ -1,2 +1,7 @@
 export EDITOR="mate -w"
 export PATH=$PATH:~/bin:/usr/local/git/bin
+
+export CLICOLOR=1
+export LSCOLORS=Gxfxcxdxbxegedabagacad
+
+if [[ -s "$HOME/.rvm/scripts/rvm" ]]  ; then source "$HOME/.rvm/scripts/rvm" ; fi

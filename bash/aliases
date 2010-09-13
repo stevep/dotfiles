@@ -1,0 +1,6 @@
+# Utility
+alias reload='source ~/bin/dotfiles/bash/aliases'
+alias ea="vim  ~/bin/dotfiles/bash/aliases && reload"
+
+# Rails
+alias ss="./script/server"
